@@ -1,0 +1,5 @@
+◇ injected env (6) from .env // tip: ⌘ override existing { override: true }
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+Server listening on port 5001
+User connected: 4Mjf2dxWxRZw3InwAAAB
+User connected: BdbiXynSZyZZ-yaPAAAD
